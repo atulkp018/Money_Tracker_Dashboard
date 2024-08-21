@@ -30,7 +30,7 @@ function Dashboard() {
             
 
         </div>
-        <div className='w-3git init/5'>
+        <div className='w-3/5'>
         <h2>Expenses Chart</h2>
         <Chart/>
 
